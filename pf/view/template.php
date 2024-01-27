@@ -27,9 +27,9 @@
             Categorias
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a class="dropdown-item" href="#">Design</a></li>
-            <li><a class="dropdown-item" href="#">Programação</a></li>
-            <li><a class="dropdown-item" href="#">Marketing</a></li>
+            <li><a class="dropdown-item" href="#">Academia</a></li>
+            <li><a class="dropdown-item" href="#">Trainamento</a></li>
+            <li><a class="dropdown-item" href="#">Aulas</a></li>
           </ul>
         </li>
       </ul>
